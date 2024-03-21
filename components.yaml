@@ -1,6 +1,3 @@
-J:
-  fixture: true
-
 K:
   local: ./K/@L
   remote: ../L.git
