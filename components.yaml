@@ -6,4 +6,4 @@ K:
 M:
   local: ./K/@M
   remote: ../M.git
-  branch: main
+  tag: new-m-tag
