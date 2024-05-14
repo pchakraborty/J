@@ -1,4 +1,4 @@
-K:
+L:
   local: ./K/@L
   remote: ../L.git
   branch: main
