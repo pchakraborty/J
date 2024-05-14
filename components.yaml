@@ -1,7 +1,7 @@
 L:
   local: ./K/@L
   remote: ../L.git
-  branch: main
+  tag: mat-testing
 
 M:
   local: ./K/@M
